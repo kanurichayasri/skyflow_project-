@@ -10,7 +10,7 @@ To run this project, you will need Python 3.8 or higher installed on your system
 
 1. Clone the Repository
 Open your terminal and run the following commands to get the project files:
-git clone https://github.com//SkyFlow-Aerospace
+git clone https://github.com/kanurichayasri /SkyFlow-Aerospace
 cd SkyFlow-Aerospace
 
 2. Install Dependencies
@@ -48,4 +48,4 @@ skyflow_cli.py: The interactive mission planning interface for the operator.
 
 requirements.txt: List of all necessary Python libraries.
 
-README.md: Comprehensive project documentation and user guide
+
